@@ -1,0 +1,15 @@
+
+{
+	"plugin": {
+		"name": "binja_toolbar",
+		"type": ["ui"],
+		"api": "python2",
+		"description": "Adds an extensible toolbar to the Binary Ninja interface",
+		"longdescription": "binja_toolbar is a fork of BinjaDock that adds a toolbar to Binary Ninja and allows you to easily add buttons to it. While not useful on its own, plugin developers may find it makes it easy for them to effectively incorporate their code into the UI. To install, navigate to your plugins folder and run `git clone https://github.com/ehennenfent/binja_toolbar.git`",
+		"license": {
+			"name": "MIT",
+		},
+		"version": "0.0.1",
+		"author": "Eric Hennenfent",
+	}
+}
